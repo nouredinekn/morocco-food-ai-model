@@ -61,6 +61,13 @@ Once you're satisfied with the training, you can save the model for future use:
 learn.export(r'.\morocco-food-ml-by-nouredinekn-v1.pkl')
 ```
 
+# Morocco Food AI Model
+
+## Watch the Morocco Food AI Model in Action
+
+![Demo GIF](vedio/demo.gif)
+
+
 ## Contact
 For questions, suggestions, or collaborations, feel free to reach out to me:
 
