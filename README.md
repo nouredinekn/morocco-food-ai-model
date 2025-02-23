@@ -65,7 +65,9 @@ learn.export(r'.\morocco-food-ml-by-nouredinekn-v1.pkl')
 
 ## Watch the Morocco Food AI Model in Action
 
-![Demo GIF](vedio/demo.gif)
+Video: 
+
+[vedio.mp4](https://superb-sorbet-21bb85.netlify.app/vedio.mp4)
 
 
 ## Contact
