@@ -64,8 +64,7 @@ learn.export(r'.\morocco-food-ml-by-nouredinekn-v1.pkl')
 # Morocco Food AI Model
 
 ## Watch the Morocco Food AI Model in Action
-![vedio](vedio/vedio.mp4)
-
+[vedio](https://github.com/user-attachments/assets/e5fd8bc2-5da3-49cd-8f28-7c542a57a09e)
 
 ## Contact
 For questions, suggestions, or collaborations, feel free to reach out to me:
