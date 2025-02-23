@@ -67,7 +67,7 @@ learn.export(r'.\morocco-food-ml-by-nouredinekn-v1.pkl')
 
 Video: 
 
-[poc.webm](https://superb-sorbet-21bb85.netlify.app/vedio.mp4)
+[vedio.mp4]([https://superb-sorbet-21bb85.netlify.app/vedio.mp4](https://github.com/nouredinekn/morocco-food-ai-model/blob/main/vedio/vedio.mp4))
 
 
 ## Contact
